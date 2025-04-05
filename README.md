@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-sys&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-sys" /> </p>
 
-- 📫 How to reach me **nayansrivastav21@gmail.com**
+
 
 
 
